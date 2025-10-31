@@ -101,7 +101,7 @@ pip install numpy matplotlib seaborn
 ### ▶️ Execução
 Execute o arquivo principal:
 ```bash
-python main.py
+python principal.ipynb
 ```
 
 A saída inclui:
